@@ -1,0 +1,11 @@
+*.pyc
+*.toc
+.pkg
+build
+__pycache__
+*.spec
+*.idea
+venv
+about.html
+tutorial.html
+static
